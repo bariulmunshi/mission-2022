@@ -1,0 +1,173 @@
+body {
+  font-family: "Lora", serif;
+  margin: 0;
+}
+span {
+  color: blue;
+}
+h1 {
+  border-left: 6px solid green;
+  height: 130px;
+  border-width: 3px;
+  border-radius: 5px;
+  padding-left: 8px;
+  padding-bottom: 50px;
+  font-size: 75px;
+}
+p {
+  font-size: 20px;
+}
+.flexible-container {
+  display: flex;
+}
+.flexible-container p {
+  font-size: 25px;
+}
+.half-width {
+  width: 50%;
+  padding-left: 5%;
+  padding-top: 5%;
+}
+.half-width img {
+  width: 75%;
+}
+.text-padding {
+  width: 45%;
+  padding-right: 5%;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+  color: white;
+  padding: 10px 30px;
+  border-radius: 5px;
+}
+.flexible-sec {
+  display: flex;
+}
+.part-mis {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.part-mis h3 {
+  font-size: 30px;
+}
+.part-mis h2 {
+  text-align: center;
+  margin-bottom: 50px;
+  font-size: 70px;
+}
+.part-mis p {
+  font-size: 25px;
+}
+.mis img {
+  width: 30%;
+}
+.mis {
+  width: 25%;
+  margin: 0 4%;
+  box-shadow: 0px 10px 20px #00000017;
+  border-radius: 0px 0px 60px 60px;
+  padding: 20px 30px;
+  text-align: left;
+}
+.color-first {
+  background-color: pink;
+}
+.color-second {
+  background-color: rgb(236, 230, 230);
+}
+.color-third {
+  background-color: khaki;
+}
+.third-flexibles {
+  display: flex;
+  margin-bottom: 100px;
+  background-image: url(shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-size: 15%;
+}
+.third-flexibles h2 {
+  font-size: 50px;
+  padding-top: 20px;
+}
+.third-flexibles p {
+  font-size: 25px;
+}
+.half-flexible {
+  width: 50%;
+  padding-right: 15%;
+}
+.half-flexible img {
+  width: 100%;
+  border-radius: 8%;
+  padding-left: 7%;
+}
+.padding-dev {
+  padding-left: 10%;
+}
+.comunity-section {
+  display: flex;
+  margin-bottom: 50px;
+  margin-top: 5%;
+  background-image: url(shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-size: 15%;
+  background-position: right;
+}
+.comunity-section h2 {
+  font-size: 50px;
+}
+.comunity-section p {
+  font-size: 25px;
+}
+.half-community {
+  width: 50%;
+}
+.half-community img {
+  width: 80%;
+  border-radius: 10%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.padding-com {
+  padding-left: 5%;
+}
+.flex-contact {
+  display: flex;
+}
+.contact-me {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.contact-half {
+  width: 50%;
+}
+.padding-con {
+  padding-left: 10%;
+}
+.contact-me h2 {
+  text-align: center;
+  font-size: 50px;
+}
+.contact-me p {
+  font-size: 25px;
+}
+.contact-me h3 {
+  font-size: 35px;
+  text-decoration: none;
+}
+.fb button {
+  text-decoration: none;
+}
+.last-section {
+  text-align: center;
+  background-color: black;
+  background-size: 100%;
+  padding-top: 0.5%;
+  padding-bottom: 1%;
+  font-size: 30px;
+}
+.last-section h2 {
+  display: inline;
+}
